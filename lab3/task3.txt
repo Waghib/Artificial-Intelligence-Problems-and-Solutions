@@ -1,0 +1,4 @@
+Faisalabad: [(Lahore, 2), (Chiniot, 1), (Islamabad, 4), (Sargodha, 2)],
+Lahore: [(Islamabad, 5), (Faisalabad, 2)],
+Chiniot: [(Islamabad, 6), (Lahore, 3)],
+Rawalpindi: [(Islamabad, 1), (Murree, 1)]
